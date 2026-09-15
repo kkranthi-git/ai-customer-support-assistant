@@ -1,0 +1,314 @@
+source,chunk_id,text,chunk_length
+account.md,0,"# Account Support
+
+## Creating an Account
+
+Customers can create an account by providing their email address and choosing a secure password. The email address should be valid and accessible because it may be required for account verification.
+
+## Account Verification
+
+If an account requires verification, customers should check their email for the verification message. They should also check their spam or junk folder if the message is not visible in the inbox.
+
+## Forgot Password
+
+Customers who fo",500
+account.md,1,"pam or junk folder if the message is not visible in the inbox.
+
+## Forgot Password
+
+Customers who forget their password should use the password reset option on the sign-in page. A password reset link will be sent to the registered email address.
+
+## Password Reset Email Not Received
+
+If the password reset email does not arrive, customers should check their spam or junk folder and confirm that they entered the correct email address. If the email is still not received, they should contact customer",500
+account.md,2,"entered the correct email address. If the email is still not received, they should contact customer support.
+
+## Change Account Email
+
+Customers who need to change the email associated with their account should contact customer support. Support may request account information to verify ownership before making the change.
+
+## Account Locked
+
+An account may be temporarily locked after multiple unsuccessful login attempts. Customers should wait before trying again or contact customer support if th",499
+account.md,3,"ccessful login attempts. Customers should wait before trying again or contact customer support if they cannot regain access.
+
+## Close an Account
+
+Customers who want to close their account should contact customer support. Account closure may be permanent, so customers should confirm that they no longer need the account before requesting closure.",347
+billing.md,0,"# Billing Support
+
+## Billing Cycle
+
+Customers are charged according to their selected billing plan. The billing date may vary depending on when the subscription was started.
+
+## Unexpected Charge
+
+If a customer notices an unexpected charge, they should review their billing history and verify whether the charge is related to an active subscription or recent purchase.
+
+If the charge cannot be identified, the customer should contact support with the transaction details.
+
+## Duplicate Charge
+
+If a",499
+billing.md,1,"ified, the customer should contact support with the transaction details.
+
+## Duplicate Charge
+
+If a customer believes they were charged twice for the same transaction, they should check their payment history first. If two completed charges are present for the same purchase, they should contact support with the transaction details.
+
+## Invoice
+
+Customers can request or access their invoice through their account billing section. If an invoice is missing or contains incorrect information, they shou",500
+billing.md,2,"their account billing section. If an invoice is missing or contains incorrect information, they should contact customer support.
+
+## Billing Information
+
+Customers who need to update their billing information should use the billing settings available in their account. If they cannot update the information, they should contact customer support.
+
+## Subscription Renewal
+
+Subscriptions may renew automatically according to the customer's selected plan. Customers should review their subscription sett",500
+billing.md,3,"matically according to the customer's selected plan. Customers should review their subscription settings to understand their renewal date and billing amount.
+
+## Billing Dispute
+
+Customers who believe a billing charge is incorrect should contact customer support and provide the relevant transaction information so the issue can be investigated.",345
+payments.md,0,"# Payment Support
+
+## Payment Failed
+
+If a payment fails, customers should verify that their payment method has sufficient funds and that the billing information is correct.
+
+Customers can try the payment again after checking their payment details. If the payment continues to fail, they should contact customer support.
+
+## Payment Declined
+
+A payment may be declined by the payment provider because of insufficient funds, incorrect payment information, or security restrictions.
+
+Customers should v",500
+payments.md,1,"of insufficient funds, incorrect payment information, or security restrictions.
+
+Customers should verify their payment details and contact their bank or payment provider if necessary.
+
+## Payment Pending
+
+If a payment remains pending, customers should wait for the payment status to update. Customers should avoid submitting the same payment repeatedly while the original transaction is still pending.
+
+If the payment remains pending for an extended period, they should contact customer support with",499
+payments.md,2,"g.
+
+If the payment remains pending for an extended period, they should contact customer support with the transaction details.
+
+## Payment Reversed
+
+A payment may be reversed if the transaction could not be completed successfully. Customers should check their payment history to confirm the current status.
+
+If the amount has not been returned after the expected processing period, customers should contact support.
+
+## Payment Method
+
+Customers can use the payment methods supported by the service. A",500
+payments.md,3,"ntact support.
+
+## Payment Method
+
+Customers can use the payment methods supported by the service. Available payment methods may vary depending on the customer's location and account.
+
+## Card Payment
+
+If a card payment fails, customers should verify the card number, expiration date, security code, billing information, and available funds.
+
+## Payment Security
+
+Customers should never share their password, card security code, or other sensitive payment credentials with support agents.
+
+If a custo",500
+payments.md,4,"assword, card security code, or other sensitive payment credentials with support agents.
+
+If a customer notices suspicious payment activity, they should contact their payment provider and customer support immediately.",217
+refunds.md,0,"# Refund Support
+
+## Refund Eligibility
+
+Refund eligibility depends on the type of purchase and the applicable refund policy. Customers should contact support if they are unsure whether a purchase qualifies for a refund.
+
+## Request a Refund
+
+Customers who want to request a refund should contact customer support and provide the relevant order or transaction details.
+
+Support will review the request and determine whether the transaction qualifies for a refund.
+
+## Refund Processing
+
+After a refun",500
+refunds.md,1,"t and determine whether the transaction qualifies for a refund.
+
+## Refund Processing
+
+After a refund is approved, the processing time may depend on the payment method and financial institution.
+
+Customers should allow the required processing time before contacting support about a missing refund.
+
+## Refund Not Received
+
+If a customer has been informed that a refund was processed but the amount has not appeared, they should check their payment account and allow the expected processing period.
+
+I",500
+refunds.md,2,"s not appeared, they should check their payment account and allow the expected processing period.
+
+If the refund is still missing after that period, they should contact support with the refund or transaction details.
+
+## Partial Refund
+
+A partial refund may be issued when only part of an order or service qualifies for a refund.
+
+Customers should contact support if they believe the refunded amount is incorrect.
+
+## Cancelled Order Refund
+
+If an order is cancelled and qualifies for a refund, the r",500
+refunds.md,3,"is incorrect.
+
+## Cancelled Order Refund
+
+If an order is cancelled and qualifies for a refund, the refund will be processed according to the applicable refund policy.
+
+Customers should retain their order information until the refund has been completed.
+
+## Refund Status
+
+Customers can contact support to check the status of a refund. They should provide the relevant order or transaction information so the request can be located.",431
+returns.md,0,"# Returns Support
+
+## Return Eligibility
+
+Customers may be able to return eligible products according to the applicable return policy.
+
+Return eligibility may depend on the product, purchase date, and condition of the item.
+
+## Start a Return
+
+Customers who want to return a product should contact customer support or use the available return process.
+
+They should provide the relevant order information when requesting a return.
+
+## Return Condition
+
+Returned products may need to be in an acceptabl",500
+returns.md,1,"ion when requesting a return.
+
+## Return Condition
+
+Returned products may need to be in an acceptable condition and may need to include the original accessories or packaging.
+
+Customers should review the applicable return requirements before sending an item back.
+
+## Return Shipping
+
+Return shipping instructions depend on the order and the applicable return policy.
+
+Customers should follow the provided return instructions and use the recommended shipping method when required.
+
+## Return Status",498
+returns.md,2,"vided return instructions and use the recommended shipping method when required.
+
+## Return Status
+
+Customers can contact support to check the status of a return.
+
+They should provide their order or return information so support can locate the request.
+
+## Damaged Product
+
+If a product arrives damaged, customers should contact support as soon as possible and provide the order information and details about the damage.
+
+Photos or other evidence may be requested during the investigation.
+
+## Wrong",499
+returns.md,3,"ls about the damage.
+
+Photos or other evidence may be requested during the investigation.
+
+## Wrong Product Received
+
+If a customer receives an incorrect product, they should contact support with their order information and explain the issue.
+
+Support will provide instructions for returning the incorrect item and resolving the order.
+
+## Exchange
+
+If an exchange is available for the product, customers should contact support to confirm eligibility and receive the appropriate instructions.",492
+technical_support.md,0,"# Technical Support
+
+## Internet Connection Problems
+
+If a customer is experiencing internet connection problems, they should first check whether the issue affects only one device or multiple devices.
+
+Customers can restart their network equipment and check that all cables and connections are secure.
+
+If the problem continues, they should contact technical support with details about the issue.
+
+## Slow Internet
+
+Customers experiencing slow internet should check whether multiple devices are using",500
+technical_support.md,1,"Slow Internet
+
+Customers experiencing slow internet should check whether multiple devices are using the connection at the same time.
+
+They can restart their network equipment and test the connection again.
+
+If the connection remains slow, they should contact technical support.
+
+## Connection Keeps Disconnecting
+
+If the internet connection repeatedly disconnects, customers should restart their network equipment and check all physical connections.
+
+If the disconnections continue, technical suppor",499
+technical_support.md,2,"work equipment and check all physical connections.
+
+If the disconnections continue, technical support may need additional information about the device, connection, and frequency of the problem.
+
+## Application Not Working
+
+If an application is not working correctly, customers should restart the application and verify that they are using the latest available version.
+
+If the problem continues, customers should contact technical support and describe the error.
+
+## Login Problem
+
+Customers who cann",500
+technical_support.md,3,"omers should contact technical support and describe the error.
+
+## Login Problem
+
+Customers who cannot log in should verify that they are using the correct account credentials.
+
+If they have forgotten their password, they should use the password reset process described in the Account Support documentation.
+
+## Error Message
+
+Customers who receive an error message should record the exact message and provide it to technical support.
+
+The error message can help support identify the cause of the pro",500
+technical_support.md,4,"d provide it to technical support.
+
+The error message can help support identify the cause of the problem.
+
+## Device Problem
+
+If a device is not working correctly, customers should restart the device and check whether the problem continues.
+
+If the issue remains unresolved, they should contact technical support with information about the device and problem.
+
+## Service Unavailable
+
+If a service is completely unavailable, customers should check whether the issue is limited to their device or affe",500
+technical_support.md,5,"completely unavailable, customers should check whether the issue is limited to their device or affects other users or services.
+
+If the service remains unavailable, they should contact technical support.
+
+## Security Concern
+
+Customers who suspect unauthorized access or suspicious activity should secure their account and contact customer support immediately.
+
+Customers should never share passwords or other sensitive credentials with support agents.",452

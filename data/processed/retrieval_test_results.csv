@@ -1,0 +1,6 @@
+query,source,similarity
+I forgot my password. How can I reset it?,account.md,0.5330333709716797
+I want to return a product.,returns.md,0.6693657636642456
+How long does a refund take?,refunds.md,0.5123847723007202
+My internet connection is not working.,technical_support.md,0.49668169021606445
+Why was I charged twice?,billing.md,0.5233407020568848

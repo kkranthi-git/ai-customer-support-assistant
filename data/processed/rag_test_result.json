@@ -1,0 +1,8 @@
+{
+    "query": "Can I change my delivery address after my order has shipped?",
+    "answer": "Unfortunately, I don't have enough information to determine if you can change your delivery address after your order has shipped. The provided context only contains information about refunds, returns, damaged products, and account management, but does not mention changing delivery addresses. If you could provide more context or details about your order, I may be able to assist you better.",
+    "sources": [
+        "account.md",
+        "technical_support.md"
+    ]
+}
