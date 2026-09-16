@@ -56,7 +56,6 @@ Large Language Model
 Grounded Answer
        |
        v
-
 Sources
 
 ## Key Features
