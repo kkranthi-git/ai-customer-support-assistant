@@ -98,7 +98,7 @@ Environment-variable based API authentication
 ### Deployment
 - Docker
 
-Knowledge Base
+## Knowledge Base
 The assistant currently uses a small customer-support knowledge base containing:
 data/
 └── knowledge_base/
