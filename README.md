@@ -56,9 +56,10 @@ Large Language Model
 Grounded Answer
        |
        v
+
 Sources
 
-Key Features
+## Key Features
 Semantic search using sentence embeddings
 Vector similarity retrieval
 Retrieval-Augmented Generation (RAG)
